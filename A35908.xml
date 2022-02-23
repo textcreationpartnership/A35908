@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between two members of the new and old East-India companies</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35908</idno>
+            <idno type="STC">Wing D1342</idno>
+            <idno type="STC">ESTC R8917</idno>
+            <idno type="EEBO-CITATION">12381695</idno>
+            <idno type="OCLC">ocm 12381695</idno>
+            <idno type="VID">60789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 936:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between two members of the new and old East-India companies</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by the booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>1 sheet ([2] p.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:60789:1" rendition="simple:additions"/>
+            <head>
+               <hi>A DIALOGUE</hi> Between Two Members of the New and Old <hi>EAST-INDIA</hi> Companies.</head>
+            <sp>
+               <speaker>Old. Memb.</speaker>
+               <p>SIR, We are now in a fair way to be upon equal Terms with You, if our Bill of In<g ref="char:EOLhyphen"/>coporation paſſes, which I make no doubt of</p>
+            </sp>
+            <sp>
+               <speaker>New.</speaker>
+               <p>Sir, if that Bill ſhould paſs, I muſt allow you'l have an Act of Parliament upon much ea<g ref="char:EOLhyphen"/>ſier Terms than we had. But, Sir, I do make a doubt upon that which you ſeem to be ſo poſitive in, and my Reaſon is from the Juſtice, and the Nature of the thing it ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Old.</speaker>
+               <p>Why, Sir, is there not as much Reaſon and Juſtice we ſhould be Eſtabliſh'd by Parliament as you could pretend to?</p>
+            </sp>
+            <sp>
+               <speaker>New.</speaker>
+               <p>Really, Sir, I think not, for you may remember the occaſion; 'Twas the continual Com<g ref="char:EOLhyphen"/>plaints of the Irregularities and Abuſes by your Company which was the ſole Reaſon for Erecting a New one; Inſtance, how the Kingdom in general was offended with your Ma<g ref="char:EOLhyphen"/>nagement, and thought it highly reaſonable to give you early Notice of your being diſſol<g ref="char:EOLhyphen"/>ved. 'Twas this, Sir, that drove the Nation under the neceſſity of ſettling the Trade in other hands. Beſides, Sir, 'twas not ſo fair a Practice in you (when the Government propoſed to Raiſe Two Millions upon the Eſtabliſhment of that Trade) to make Offers to advance the whole Sume, and when it came to the Pinch Nothing to be done: But on the contrary you ſee the Members of the New Company was ſo far from heſitating, or trifling with the King's Buſineſs (when we were under ſuch Straights and Difficulties) that as one Man they all Embark'd in the Intereſt of the Government, and compleated the whole without any Obſtruction. Do you make, Sir, no Difference between the New and the Old? And pray, Sir, let me enlarge a little farther, by asking you one Queſtion more. Suppoſe that you had Advanced the Two Millions for the Service of the Government, and thereby had been confirm'd by Parliament, ſhould you not have thought your Selves ſecured from the dan<g ref="char:EOLhyphen"/>ger of any other Act, to Erect a New Company in a Year or two afterwards to Trade to the ſame Place, with very near the ſame Privileges? Anſwer me fairly.</p>
+            </sp>
+            <sp>
+               <speaker>Old.</speaker>
+               <p>To ſpeak the Truth, I ſhould have thought our ſelves very ſecure.</p>
+            </sp>
+            <sp>
+               <speaker>New.</speaker>
+               <p>Then where's the Juſtice in your Endeavours to Obtain an Act in Prejudice of others, which you would have conſtru'd to be very hard, if in the ſame Caſe it had been done to your Selves?</p>
+            </sp>
+            <sp>
+               <speaker>Old.</speaker>
+               <p>But, Sir, Ours is an Extraordinary Caſe, and if you will but conſider the whole, that is to ſay, The many Loſſes we have ſuſtain'd by Sea of late Years; the Taxes we have paid du<g ref="char:EOLhyphen"/>ring the War, and the Diſcouragement we have been under for ſome time, I am of Opi<g ref="char:EOLhyphen"/>nion you will not think it unreaſonable for us to have an Act of Eſtabliſhment as well as you.</p>
+            </sp>
+            <sp>
+               <speaker>New.</speaker>
+               <p>Sir, I muſt confeſs that you have met with great Loſſes, and been under great Difficulties and Diſappointments, theſe are Motives to ſome ſort of Compaſſion; but excuſe me, Sir, if I think you are not altogether Meritorious of ſuch a Recompence as you ſeem to aim at: And further, pray give me leave to ſet the Hare's head againſt the Gooſe Gibblets; Sir, as you have had great Loſſes, ſo you muſt have had Extravagant Profits, or you could never have made ſuch large Dividends, nor have been Maſters of ſo great Eſtates.</p>
+            </sp>
+            <sp>
+               <speaker>Old.</speaker>
+               <p>Well, Well, for all this I doubt not but the Bill will paſs.</p>
+            </sp>
+            <sp>
+               <speaker>New.</speaker>
+               <p>Sir, As I ſaid before, I do doubt it, and upon good grounds too, Pleaſe to Obſerve my Reaſons: In the firſt place, by theſe means we ſhall greatly Leſſen the Credit of the Nation; for, by the ſame Rule that this Act paſſes, we may reaſonably expect to have another Company ſet up in a Year or two's time; ſo conſequently no dependance to build a Trade upon any thing. The People will grow weary, and not pleaſed with what they have truſted; give Credit to Nothing; the Government will be brought into ſuch a Con<g ref="char:EOLhyphen"/>dition, that when ever they are in want of Money, they muſt Infallibly meet with Diſap<g ref="char:EOLhyphen"/>pointments. Sir, the Credit of the Nation muſt be kept Sacred; or elſe it can be of no
+<pb facs="tcp:60789:2"/>Force; beſides, Sir, Pray what has the New Company done to fall under any diſcouragement; when they advanced their Money, no doubt but they relied upon the Sanction of their Act Parliament, and till ſuch time as they become Criminals to the State, or a Grievance to the People, or prove diſtructive to the Trade of <hi>England</hi> in General, I think they have all the Reaſon in Honour for the Nation, and in Juſtice for themſelves, to expect their Rights to be preſerved, and not in the leaſt to be Infringed upon. A Man might make a Reply how long it is ſince your Company made Reſtitutions for your paſt Crimes; or what is it that you have done lately to repreſent yourſelves wor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy of ſuch a Boon from the Go<g ref="char:EOLhyphen"/>vernment, even to the prejudice of it ſelf. Methinks the Cauſe beſpeaks it ſelf: But, how<g ref="char:EOLhyphen"/>ever, I have another Reaſon to differ in Opinion from you, that is, that Two Companies are inconſiſtent, and will ever be Claſhing one againſt another; tend very much to the kee<g ref="char:EOLhyphen"/>ping up Heats and Differences amongſt us, certainly prove the Ruin of Both in the end, and the Trade in a little time, will be Irrecoveraly loſt. Therefore I am contrary to you, as to the paſſing your Bill.</p>
+            </sp>
+            <sp>
+               <speaker>Old.</speaker>
+               <p>So, upon the whole Matter, you think we ſhall make nothing of our Bill.</p>
+            </sp>
+            <sp>
+               <speaker>New.</speaker>
+               <p>Not ſo neither, I am of Opinion that it will produce a good Iſſue between both Com<g ref="char:EOLhyphen"/>panies; in order thereto I am perſwaded that the Members of the New Company, in re<g ref="char:EOLhyphen"/>ſpect of the Good and Quiet of the Nation, will condeſcend ſo far (tho' much to their Diſ<g ref="char:EOLhyphen"/>advantage, and greatly againſt their Inclination to Mix with your Members) as to make ſuch Propoſals for an Accommodation, that if your Company can come up to them in fairneſs, this Diviſion will center in a Union.</p>
+            </sp>
+            <sp>
+               <speaker>Old.</speaker>
+               <p>No, No, that will never do, for this is a Work of Time, and requires abundance of Thought; beſides, the New Company will never yield to the Demands we ſhall make for our Dead Stock. But pray ſince you Talk of a Union, which way can you pro<g ref="char:EOLhyphen"/>poſe it?</p>
+            </sp>
+            <sp>
+               <speaker>New.</speaker>
+               <p>Why, Sir, thus, Suppoſing the New Company is ſo generous as to let your old Members into One Million, with what they have already, which is one Half of their Stock and Trade, and ſubmit your Forts and Caſtles to be valued by the Lords and Commons. This is an Expedient to make an United Stock. And as conſidering no Body knows the State of your Effects ſo well as your Selves; or at leaſt are not inclinable to believe them ſo Valuable as you wou'd have them accounted, you muſt e'ne make the moſt of them as faſt as you can, and divide your Profits amongſt your Selves, then you are ſure not to he wronged by others. By theſe means the Differences between both may be adjuſt<g ref="char:EOLhyphen"/>ed. The Two Companies may be made into One in 14 Days, as well as 14 Years. But how long you will be in getting in your Effects, and paying your Debts, is a Time I can<g ref="char:EOLhyphen"/>not at preſent fix: Neither can I tell what the Dividend will be when the Account is Ballanced. But however I think my ſelf obliged to ſay one Word by way of Advice to you, and the reſt of the Adventurers in the way of taking leave: Be led no longer by the Noſe. Don't ſuffer your Selves to be buffetted from Poſt to Pillar, by Pinning your Faith upon ſuch that propoſe no more than to find a way out for themſelves, like Rats that quit the Houſe before it falls. In a word, have a Care (according the Proverb) that you are not left with a Dog to hold.</p>
+            </sp>
+            <sp>
+               <speaker>Old.</speaker>
+               <p>I proteſt, you have ſpoke ſo much that I'm confounded, I'm afraid there's too much Truth in what you've ſaid, and for my own part I'll ſtand it no longer, I'll go directly to the Coffee-houſe this Minute, and diſpoſe of my whole Parcel, that I may ſleep quietly, and be Excuſed in my attendance at <hi>Weſtminſter</hi> on <hi>Friday,</hi> So farewell for One Hour or Two, I'l give you an Account what I have done when I return.</p>
+            </sp>
+            <sp>
+               <speaker>New.</speaker>
+               <p>Well, fare you well, God ſend you a good Deliverance.</p>
+            </sp>
+            <sp>
+               <speaker>Old.</speaker>
+               <p>Well, Brother New Company Man, I've done the Buſineſs, I've ſold all, and thank you for your Advice, and to morrow I'l lay it out every bit in New-Stock, for in Truth, I ſee no Reaſon for the Bill to paſs.</p>
+            </sp>
+            <sp>
+               <speaker>New.</speaker>
+               <p>Well Brother, I believe you'l find your Account in it, and in leſs then Eight and Forty Hours, I doubt not but to find more Converts, and ſo A-Diew.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, and Sold by the Bookſellers.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
